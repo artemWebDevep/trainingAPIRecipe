@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trainingAPIRecipe/static/css/main.86b531bb.chunk.css",
+    "main.js": "/trainingAPIRecipe/static/js/main.c2acee73.chunk.js",
+    "main.js.map": "/trainingAPIRecipe/static/js/main.c2acee73.chunk.js.map",
+    "runtime-main.js": "/trainingAPIRecipe/static/js/runtime-main.3444fe59.js",
+    "runtime-main.js.map": "/trainingAPIRecipe/static/js/runtime-main.3444fe59.js.map",
+    "static/js/2.3353d83c.chunk.js": "/trainingAPIRecipe/static/js/2.3353d83c.chunk.js",
+    "static/js/2.3353d83c.chunk.js.map": "/trainingAPIRecipe/static/js/2.3353d83c.chunk.js.map",
+    "index.html": "/trainingAPIRecipe/index.html",
+    "precache-manifest.0909f9cbf269dad7ea72f06cf13abc47.js": "/trainingAPIRecipe/precache-manifest.0909f9cbf269dad7ea72f06cf13abc47.js",
+    "service-worker.js": "/trainingAPIRecipe/service-worker.js",
+    "static/css/main.86b531bb.chunk.css.map": "/trainingAPIRecipe/static/css/main.86b531bb.chunk.css.map",
+    "static/js/2.3353d83c.chunk.js.LICENSE": "/trainingAPIRecipe/static/js/2.3353d83c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3444fe59.js",
+    "static/js/2.3353d83c.chunk.js",
+    "static/css/main.86b531bb.chunk.css",
+    "static/js/main.c2acee73.chunk.js"
+  ]
+}
